@@ -1,8 +1,8 @@
-Account Number      Name                                                        
-1001                 alka  
-1002                 anuj
-1003                 rajesh
-1004                 Priya
-1005                 akash
+Account Number      Account Name    Account Balance
+1001                 alka             200000
+1002                 anuj             422000
+1003                 rajesh           242163
+1004                 Priya            6352113
+1005                 akash            565411
 1006                 imran
 1007                 raju 
